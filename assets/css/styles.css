@@ -14,3 +14,25 @@
 body.home  {
 	background-color: #9BCACA; 
 }
+
+body.phase1  {
+	background-color: #9BCACA;
+}
+
+body.phase2  {
+	background-color: #77A7A6; 
+}
+
+body.phase3  {
+	background-color: #4C7C7B;
+}
+
+body.phase4  {
+	background-color: #2E5B5A;
+	color: #FFFFFF;
+}
+
+body.phase5  {
+	background-color: #2E5B5A;
+	color: #FFFFFF;
+}
