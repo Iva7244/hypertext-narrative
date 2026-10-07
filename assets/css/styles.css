@@ -10,3 +10,7 @@
 	height: 800px;
 	margin: 64px;
 }
+
+body.home  {
+	background-color: #9BCACA; 
+}
