@@ -3,3 +3,10 @@
 * {
 	font-family: Arial;
 }
+
+.backgroundImage  {
+	background-image: url("../img/plastic_bag_PNG4.png");
+	width: 400px;
+	height: 400px;
+	margin: 64px;
+}
