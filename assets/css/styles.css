@@ -15,6 +15,10 @@ h1  {
 	margin: 700px;
 }
 
+img  {
+	border-radius: 20px;
+}
+
 body.home  {
 	background-color: #9BCACA; 
 }
