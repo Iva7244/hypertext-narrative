@@ -14,10 +14,12 @@
 h1  {
 	margin: 200px;
 	text-align: center;
+	font-size: 64px;
 }
 
 p  {
 	margin: 200px;
+	font-size: 40px;
 }
 
 img  {
