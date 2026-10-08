@@ -7,20 +7,25 @@
 .backgroundImage  {
 	background-image: url("../img/plastic_bag_PNG4.png");
 	width: 1300px;
-	height: 2000px;
+	height: 1600px;
 	margin: 30px;
 }
 
 h1  {
-	margin: 550px;
+	margin: 200px;
 }
 
 p  {
-	margin: 550px;
+	margin: 200px;
 }
 
 img  {
 	border-radius: 20px;
+	margin: 15px;
+}
+
+h3  {
+	margin: 200px;
 }
 
 body.home  {
